@@ -1,0 +1,19 @@
+{
+  "foods": [
+    {
+      "foodName": "Jeinju Bibimbap",
+      "foodPrice": "12000",
+      "foodInfo": "Calorie: 454kcal | Lipid: 15.89g | Carbohydrate: 20.41g | Protein: 55.50g \r\nAllergy information : Soybean, Wheat, Beef, Egg​"
+    },
+    {
+      "foodName": "Stewed Ribs",
+      "foodPrice": "14000",
+      "foodInfo": "Calorie: 597kcal | Lipid: 43.59g | Carbohydrate: 15.44g | Protein: 34.53g \r\nAllergy information : Soybean, Wheat, Beef"
+    },
+    {
+      "foodName": "Grilled Porkbelly",
+      "foodPrice": "16000",
+      "foodInfo": "Calorie: 661kcal | Lipid: 56.43g | Carbohydrate: 1.18g | Protein: 34.47g \r\nAllergy information : Pork"
+    }
+  ]
+} 

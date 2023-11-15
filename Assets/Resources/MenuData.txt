@@ -1,0 +1,19 @@
+{
+  "menus": [
+    {
+      "name": "A_Manu_Name",
+      "info": "A_Menu_Info",
+      "price": "8000"
+    },
+    {
+      "name": "B_Manu_Name",
+      "info": "B_Manu_Name",
+      "price": "10000"
+    },
+    {
+      "name": "C_Manu_Name",
+      "info": "C_Manu_Name",
+      "price": "30000"
+    }
+  ]
+} 

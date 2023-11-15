@@ -1,0 +1,19 @@
+{
+  "menuInfo_": [
+    {
+      "menuName": "JeonijBibimbap",
+      "menuPrice": "12000",
+      "menuInfo": "알레르기 정보 : 쇠고기, 난류"
+    },
+    {
+      "menuName": "LAgalbijjim",
+      "menuPrice": "16000",
+      "menuInfo": "알레르기 정보 : 대두, 밀, 쇠고기"
+    },
+    {
+      "menuName": "Samgyeopsal",
+      "menuPrice": "14000",
+      "menuInfo": "알레르기 정보 : 돼지고기"
+    }
+  ]
+} 

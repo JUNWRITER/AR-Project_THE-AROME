@@ -1,0 +1,9 @@
+Data 모양 설정
+
+json 파일 (Data)
+
+json 파일 불러오기 ()
+
+Dictionary 설정
+
+Dictionary 불러오기
